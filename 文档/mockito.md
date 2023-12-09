@@ -19,7 +19,7 @@
 
 #### 1.3 常用mock类框架
 
-> mock类框架: 用于mock外部依赖
+> mock类框架: 用于mock外部依赖 
 
 #####1.3.1 mockito
 
